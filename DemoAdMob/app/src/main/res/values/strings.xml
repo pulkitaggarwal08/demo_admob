@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoAdMob</string>
+
+    <string name="admob_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_video_unit_ad">ca-app-pub-3940256099942544/3347511713</string>
+    <string name="native_admob_banner_ad_unit_id">ca-app-pub-3940256099942544/2177258514</string>
+
+</resources>
